@@ -1,0 +1,44 @@
+.field{
+    width: 30%;
+    background-color: rgb(30, 99, 99);
+    border-radius: 10px 0 0 10px;
+    
+}
+.field div{
+    background-color: rgba(250, 248, 248, 0.089);
+    color: white;
+    height: 100px;
+    width: 90%;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px;
+    border-radius: 10px;
+}
+i{
+font-size: 170%;
+background-color: rgba(250, 232, 232, 0.466);
+padding: 10px 12px;
+border-radius: 50%;
+}
+.input{
+    width: 45%;
+    padding: 10px;
+    margin: 5px;
+    
+}
+.sub{
+    padding: 10px;
+    width: 93%;
+    
+}
+.btn{
+    margin-left: 40%;
+}
+.row{
+    position: relative;
+    left: 10%;
+    top: 5%;
+}
+

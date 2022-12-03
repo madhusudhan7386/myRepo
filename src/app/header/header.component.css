@@ -1,0 +1,26 @@
+.navbar{
+    background-color: rgb(12, 106, 122);
+}
+.nav-link{
+    text-align: right;
+}
+.navbar-brand{
+    font-size: 30px;
+    margin-left: 90px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.dot{
+    color: red;
+}
+a:hover{
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    border-bottom: 2px solid red;
+}
+.navbar{
+    position: sticky;
+    top: 0%;
+    z-index: 111111;
+}

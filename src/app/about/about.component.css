@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    text-decoration-line:underline;
+}
+img{
+    border-radius: 10px;
+}
+.main{
+    margin-bottom: 50px;
+}
+.image{
+    height: 50px;
+    width: 150px;
+    margin: 15px;
+}
+.stats{
+    margin-top: 100px;
+}
+.num{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(12, 106, 122);
+}
+.image:hover{
+    width: 152px;
+    height: 52px;
+    transition: 0.5s ease;
+}

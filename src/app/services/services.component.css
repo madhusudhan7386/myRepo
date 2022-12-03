@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.container-fluid{
+    background-color: rgb(245, 248, 250);
+    height:50%;
+}
+.par{
+    margin:50px;
+}
+.A{
+    background-color: white;
+    height: 350px;
+    width: 600px;
+    margin: 10px;
+    padding: 50px;
+    
+}
+.A i{
+    font-size: 300%;
+    margin-bottom: 20px;
+}
+.row{
+margin-left: 50px;
+}
+h2{
+    font-size: 25px;
+    border-bottom: 5px solid lightgray;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,32 @@
+.col-md-2{
+    margin: 40px;
+}
+.card{
+    padding: 10px;
+}
+.card-text{
+    font-style: italic;
+}
+.icon{
+    font-size: 22px;
+    margin-left: 19px;
+    text-align: center;
+    color: gray;
+    border: 1px solid lightgray;
+    padding: 6px;
+    border-radius: 50%;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    margin-top: 20px;
+    margin-left: 40px;
+    color: gray;
+}
+.icon:hover{
+    color:rgb(33, 151, 102);
+    border: 1px solid rgb(33, 151, 102);
+
+}
